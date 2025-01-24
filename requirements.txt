@@ -31,3 +31,5 @@ tzlocal==5.2
 urllib3==2.2.3
 streamlit==1.41.1
 spacy==3.5.0
+thinc==8.1.10
+
